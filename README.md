@@ -45,8 +45,7 @@ ollama serve
 3. Run the app
 streamlit run app.py
 
-Open in browser:
-
+4. Open following link in browser:
 http://localhost:8501
 
 # Example Use Cases
