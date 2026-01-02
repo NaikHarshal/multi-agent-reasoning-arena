@@ -1,4 +1,4 @@
-# multi-agent-reasoning-arena
+# Multi-Agent-Reasoning-Arena
 An interactive, locally-run multi-agent debate system where multiple AI personas continuously clash on a topic, while the user steers the intellectual dynamics in real time.
 
 This project is not a chatbot.
